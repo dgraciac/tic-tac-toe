@@ -1,0 +1,5 @@
+package com.dgraciac.tictactoe;
+
+enum Cell {
+    BOTTOM_LEFT, BOTTOM_CENTER, BOTTOM_RIGHT, TOP_CENTER, MIDDLE_LEFT, TOP_LEFT, TOP_RIGHT, MIDDLE_RIGHT;
+}
